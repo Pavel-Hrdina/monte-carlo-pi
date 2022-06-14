@@ -1,4 +1,10 @@
-# The Algorithm
+# Simple pi calculator
+
+The calculator goes to infinity and has no limit
+
+To start, clone this repo and and open index.html
+
+## The Algorithm
 
 1. Initialize circle_points, square_points and interval to 0.
 2. Generate random point x.
