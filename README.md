@@ -2,7 +2,7 @@
 
 The calculator goes to infinity and has no limit
 
-To start, clone this repo and and open index.html
+To use, clone this repo and and open index.html
 
 ## The Algorithm
 
